@@ -1,0 +1,11 @@
+
+
+#
+PATCH http://localhost:3000/api/productReviews/1
+Content-Type: application/json
+
+{
+    "userName": "Hoang Nguyen",
+    "comment": "Sản phẩm rất đẹp, giao hàng  nhanh"
+
+}
